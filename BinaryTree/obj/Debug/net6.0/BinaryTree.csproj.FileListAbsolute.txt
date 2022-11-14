@@ -1,0 +1,15 @@
+C:\Workspace\CP\DS-Algo\BinaryTree\bin\Debug\net6.0\BinaryTree.exe
+C:\Workspace\CP\DS-Algo\BinaryTree\bin\Debug\net6.0\BinaryTree.deps.json
+C:\Workspace\CP\DS-Algo\BinaryTree\bin\Debug\net6.0\BinaryTree.runtimeconfig.json
+C:\Workspace\CP\DS-Algo\BinaryTree\bin\Debug\net6.0\BinaryTree.dll
+C:\Workspace\CP\DS-Algo\BinaryTree\bin\Debug\net6.0\BinaryTree.pdb
+C:\Workspace\CP\DS-Algo\BinaryTree\obj\Debug\net6.0\BinaryTree.csproj.AssemblyReference.cache
+C:\Workspace\CP\DS-Algo\BinaryTree\obj\Debug\net6.0\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CP\DS-Algo\BinaryTree\obj\Debug\net6.0\BinaryTree.AssemblyInfoInputs.cache
+C:\Workspace\CP\DS-Algo\BinaryTree\obj\Debug\net6.0\BinaryTree.AssemblyInfo.cs
+C:\Workspace\CP\DS-Algo\BinaryTree\obj\Debug\net6.0\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Workspace\CP\DS-Algo\BinaryTree\obj\Debug\net6.0\BinaryTree.dll
+C:\Workspace\CP\DS-Algo\BinaryTree\obj\Debug\net6.0\refint\BinaryTree.dll
+C:\Workspace\CP\DS-Algo\BinaryTree\obj\Debug\net6.0\BinaryTree.pdb
+C:\Workspace\CP\DS-Algo\BinaryTree\obj\Debug\net6.0\BinaryTree.genruntimeconfig.cache
+C:\Workspace\CP\DS-Algo\BinaryTree\obj\Debug\net6.0\ref\BinaryTree.dll
